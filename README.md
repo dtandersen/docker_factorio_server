@@ -10,7 +10,6 @@
 * `0.14.23`, `0.14` [(0.14/Dockerfile)](https://github.com/factoriotools/factorio-docker/blob/master/0.14/Dockerfile)
 <!-- end autogeneration tags -->
 
-
 ## Tag descriptions
 
 * `latest` - most up-to-date version (may be experimental).
